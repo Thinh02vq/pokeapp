@@ -1,0 +1,2 @@
+# pokeapp
+làm app pokedex
